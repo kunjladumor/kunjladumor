@@ -21,8 +21,8 @@ Hey there! I’m Kunj 👋  <br>I craft cool stuff with JavaScript, React, and o
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kunjladumor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kunjladumor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kunjladumor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kunjladumor&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjladumor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
